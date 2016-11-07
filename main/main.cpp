@@ -9,7 +9,7 @@
 
 int main()
 {
-
+	using namespace sf;
 	RenderWindow window(sf::VideoMode(800, 600), "Game");
 	view.reset(sf::FloatRect(0, 0, 800, 600));
 	window.setFramerateLimit(60);

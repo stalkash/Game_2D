@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="24" tileheight="24" nextobjectid="24">
  <tileset firstgid="1" name="rules_sewers" tilewidth="24" tileheight="24" tilecount="6" columns="3">
-  <image source="../../../../../../../Program Files (x86)/Tiled/examples/sewer_automap/rules_sewers.png" width="72" height="48"/>
+  <image source="C:\Users\stlk\OneDrive\Documents\GitHub\Game_2D\resources\levels\rules_sewers.png" width="72" height="48"/>
  </tileset>
  <layer name="Tile Layer 1" width="40" height="20">
   <data encoding="csv">
